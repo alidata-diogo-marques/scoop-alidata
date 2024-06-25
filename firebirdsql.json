@@ -2,7 +2,7 @@
 	"version": "5.0.0",
 	"homepage": "https://firebirdsql.org",
 	"notes": [
-		"Run 'fbserver.exe -a' to start the database or",
+		"Run 'firebird.exe -a' to start the database or",
 		"register it as a service by running 'instsvc install -z' from an elevated shell.",
 		"To initiate the security database follow 'doc\\README.security_database.txt'"
 	],
