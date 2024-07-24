@@ -1,6 +1,6 @@
 {
     "version": "2024.2.16.0",
-    "homepage": "https://devolutions.net/remote-desktop-manager/",
+    "homepage": "https://devolutions.net/remote-desktop-manager",
     "architecture": {
         "64bit": {
             "url": "https://cdn.devolutions.net/download/Devolutions.RemoteDesktopManager.Bin.2024.2.16.0.zip",
