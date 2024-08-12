@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "alidata-diogo-marques/scoop-alidata:main"
+    [String]$upstream = "alidata-diogo-marques/scoop-alidata:main",
     # overwrite originbranch param
     [String]$originbranch = "main"
 )
