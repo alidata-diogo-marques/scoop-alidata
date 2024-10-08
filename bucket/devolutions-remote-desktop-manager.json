@@ -8,7 +8,7 @@
         }
     },
     "bin": "RemoteDesktopManager.exe",
-    "pre_install": "New-Item -ItemType \"file\" RemoteDesktopManager.cfg",
+    "pre_install": "New-Item -Path \"$dir\\RemoteDesktopManager.cfg\" | Out-Null",
     "persist": ["RemoteDesktopManager.cfg"],
     "shortcuts": [
         [
