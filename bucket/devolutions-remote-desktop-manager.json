@@ -8,7 +8,7 @@
         }
     },
     "bin": "RemoteDesktopManager.exe",
-    "persist": "RemoteDesktopManager.cfg",
+    "persist": ["RemoteDesktopManager.cfg"],
     "shortcuts": [
         [
             "RemoteDesktopManager.exe",
