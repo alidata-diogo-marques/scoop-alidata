@@ -1,5 +1,5 @@
 {
-    "version": "1.14.1b",
+    "version": "1.14.5b",
     "homepage": "https://github.com/zen-browser/desktop",
     "notes": [
         "To set profile 'Scoop' as *DEFAULT*, or profiles/settings was lost after update:",
@@ -9,12 +9,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zen-browser/desktop/releases/download/1.14.1b/zen.installer.exe#/dl.7z",
-            "hash": "af22a8b3c6d8037c5476833784e2bc7cbd163167f2ce689c45334ec70ef47069"
+            "url": "https://github.com/zen-browser/desktop/releases/download/1.14.5b/zen.installer.exe#/dl.7z",
+            "hash": "ad1d7de8001df705b694f169749977b65066e25aad072f44bcacf5f847bbbc4b"
         },
         "arm64": {
-            "url": "https://github.com/zen-browser/desktop/releases/download/1.14.1b/zen.installer-arm64.exe#/dl.7z",
-            "hash": "21a3d620e23bcb5ab2ab49bcda01fd26fa117e74c9c5824cf6393d22a0f117cf"
+            "url": "https://github.com/zen-browser/desktop/releases/download/1.14.5b/zen.installer-arm64.exe#/dl.7z",
+            "hash": "56373d8bdbe7605d45aa9342364d83e28283ee6537f897b53dcc9acac993708a"
         }
     },
     "extract_dir": "core",
