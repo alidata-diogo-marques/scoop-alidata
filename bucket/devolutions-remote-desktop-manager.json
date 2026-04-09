@@ -17,7 +17,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://devolutions.net/remote-desktop-manager/downloadfree/",
+        "url": "https://devolutions.net/remote-desktop-manager/download/",
         "regex": "Version: ([\\d.]+)"
     },
     "autoupdate": {
