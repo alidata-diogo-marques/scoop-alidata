@@ -18,7 +18,7 @@
     ],
     "checkver": {
         "url": "https://devolutions.net/remote-desktop-manager/download/",
-        "regex": "RemoteDesktopManager.([\\d.]+).BOM.xml"
+        "regex": "\"softwareVersion\":\"([\\d.]+)\""
     },
     "autoupdate": {
         "architecture": {
