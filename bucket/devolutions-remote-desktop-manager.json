@@ -1,10 +1,10 @@
 {
-    "version": "2026.2.17.0",
+    "version": "2026.2.18.0",
     "homepage": "https://devolutions.net/remote-desktop-manager",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.devolutions.net/download/Devolutions.RemoteDesktopManager.Bin.2026.2.17.0.zip",
-            "hash": "cd7974d0a2c6ac2a88ac4ff481556c46b7e034605aa1d16d2284eeef6d56cd77"
+            "url": "https://cdn.devolutions.net/download/Devolutions.RemoteDesktopManager.Bin.2026.2.18.0.zip",
+            "hash": "232c6d22b21cd4ff710a2b300768448705fb76bf11221582dfe046778ddcec25"
         }
     },
     "bin": "RemoteDesktopManager.exe",
